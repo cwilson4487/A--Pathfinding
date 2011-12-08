@@ -1,0 +1,4 @@
+Another pathfinder script from me! Wow, what a surprise. Yeah, I've done pathfinding scripts before, once in javascript (blech)*, and once in python/BGE. Both were mediocre and didn't really live up to what I wanted to do, so I'm gonna have another go at it in python with pygame. Hopefully a comprehensive graphics library will help me to achieve my unreachable goals.
+*It did work, however. It was a bit slow because it's javascript, though.
+
+Before I tried my first one (in javascript), I thought of a pathfinding algorithm as sort of an unattainable goal. I had only barely dabbled in programming. But once I got it to work, I was surprising to find that it was actually quite simple and the difficulty was only in my head. I believe that it also was the first point at which I first truly understood/used classes as well. Well, now that we have the silly nostalia crap outta the way, let's code this...
